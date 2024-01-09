@@ -1,4 +1,4 @@
-#include "binary_trees_h"
+#include "binary_trees.h"
 
 /**
  * binary_tree_is_leaf - checks if node is leaf.
